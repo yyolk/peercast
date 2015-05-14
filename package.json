@@ -7,7 +7,7 @@
     "peercast": "./bin.js"
   },
   "dependencies": {
-    "chromecast-player": "0.0.6",
+    "chromecast-player": "0.2.x",
     "network-address": "0.0.4",
     "peerflix": "^0.19.0",
     "prettysize": "0.0.3",
